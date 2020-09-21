@@ -34,6 +34,34 @@
 
 
 /**	05	Media  **/
+html{
+  background-color: hsla(145, 35%, 89%, 0.9);
+  padding:12%;
+}
+body{
+  background-color: hsla(190, 50%, 60%, 0.1);
+}
+footer{
+  background-color: hsla(0, 100%, 78%, 0.9);
+}
+header h1{
+  background-color: hsla(0, 100%, 78%, 0.9);
+}
+div.preamble, div.participation, div.benefits{
+  color: hsla(234, 76%, 26%, 0.9);
+  background-color: hsla(118, 100%, 68%, 0.9);
+  font-family: cursive;
+}
+div.explanation, div.requirements{
+  color: hsla(115, 76%, 26%, 0.9);
+  background-color: hsla(236, 86%, 31%, 0.9);
+}
+
+
+
+
+
+
 header>h1{
   background-image: url(../img/zengarden.gif);
 }
